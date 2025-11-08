@@ -1,0 +1,9 @@
+﻿fuel_type,kgCO2_per_MWh
+bioenergy,40
+solar,45
+wind,11
+hydro,4
+nuclear,12
+oil,740
+gas,490
+coal,820
